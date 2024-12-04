@@ -6,5 +6,5 @@ This repository contains multiple branches:
 Vent mode
 
 
-## Branch
+## Branch 2
 Relax mode and Zen mode combined
