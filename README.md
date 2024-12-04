@@ -7,5 +7,5 @@ Vent mode
 
 
 ## Branch 2
-Relax mode and Zen mode combined
+Relax mode and Zen mode combined.
 To run the project, use the following command: 'npm start'
