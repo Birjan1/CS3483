@@ -1,9 +1,10 @@
-# My Multi-Project Repository
+# CS3483 Group Project
 
-This repository contains multiple projects:
+This repository contains multiple branches:
 
-## Project 1
-Brief description of project 1
+## Branch 1
+Vent mode
 
-## Project 2
-Brief description of project 2
+
+## Branch
+Relax mode
